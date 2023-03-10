@@ -1,0 +1,14 @@
+/*
+* CUSTOM STYLING FOR Aquila
+*
+* @package Aquila
+*/
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.updated:not(.published) {
+    display: none;
+}
